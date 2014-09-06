@@ -1,3 +1,22 @@
 .mobile-container{
     width: 320px;
 }
+
+h3{
+  font-size: 22px;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+.row{
+  margin-bottom: 20px;
+}
+
+.btn-success, .btn-danger{
+  background-image: none;
+  border-color: transparent;
+  text-transform: uppercase;
+}
