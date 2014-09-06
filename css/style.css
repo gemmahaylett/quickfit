@@ -28,3 +28,15 @@ h4{
 #workout-complete{
   display: none;
 }
+
+.mobile-container{
+    width: 320px;
+}
+
+.logo, img{
+  width: 100%;
+}
+
+.thumbnail, img {
+  border-radius: 1em;
+}
